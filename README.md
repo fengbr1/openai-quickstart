@@ -9,6 +9,8 @@
 
 ![Example Image](./result/res_hanyuyan.jpg)
 
+![image-20240719115520597](./result/README/image-20240719115520597.png)
+
 ### 4.sales bot扩展(如果向量数据库检索不到问题答案时，能够通过一个prompt来回答这个问题)
 
 效果:当询问你是谁,华为的鸿蒙系统怎么样,这种问题库没有的问题时 可以调用openai结果获取结果
