@@ -4,6 +4,16 @@
 
 ![image-20240719105708222](./result/README/res_handwrite.jpg)
 
+### 2.openai-translator
+
+运行日志
+
+![image-20240719153100516](result/README/image-20240719153100516.png)
+
+翻译效果
+
+![image-20240719153238877](result/README/image-20240719153238877.png)
+
 ### 3.router-chain 扩展实现汉语言文学老师等
 
 
