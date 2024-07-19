@@ -2,7 +2,7 @@
 
 ### 1.GPT-4V:手写图片读取 
 
-![image-20240719105708222](.\result\README\res_handwrite.jpg)
+![image-20240719105708222](./result/README/res_handwrite.jpg)
 
 ### 3.router-chain 扩展实现汉语言文学老师等
 
@@ -22,7 +22,7 @@
 
 
 
-![image-20240719110514339](.\result\README\image-20240719110514339.png)
+![image-20240719110514339](./result/README/image-20240719110514339.png)
 
-![image-20240719105720920](D:\coderepo\com.tw\openai-quickstart\result\README\image-20240719105720920.png)
+![image-20240719105720920](./result/README/image-20240719105720920.png)
 
